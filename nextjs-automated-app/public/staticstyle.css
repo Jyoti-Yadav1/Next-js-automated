@@ -1,0 +1,11 @@
+/**
+Static files are those files which are not changed frequently
+// or used for SEO
+// or used throughout the application
+// does not contains confidential data
+// there file and folder names are not changed at build times and they are not minified as well
+*/
+
+h1{
+    color: red;
+}

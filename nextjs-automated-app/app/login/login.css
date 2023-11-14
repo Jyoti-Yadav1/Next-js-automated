@@ -1,0 +1,10 @@
+.heading{
+    color: red;
+}
+
+ul.list{
+    list-style-type: none;
+    margin: 20px;
+    display: flex;
+    gap: 20px;
+}
